@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Elegant Themes	</title>
+	<atom:link href="https://www.elegantthemes.com/layouts/comments/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.elegantthemes.com/layouts</link>
+	<description>Divi Library</description>
+	<lastBuildDate>Wed, 31 Jan 2018 22:42:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				Comment on Maecenas Fringilla Augue by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/meet-the-team#comment-207</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:51:48 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4777#comment-207</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Maecenas Fringilla Augue by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/meet-the-team#comment-206</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:51:44 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4777#comment-206</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Nam Vulputate Tempus by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/on-top-of-the-world#comment-232</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:51:00 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4791#comment-232</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Proin Eu Augue Efficitur by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/golden-meadow#comment-260</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:50:32 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4797#comment-260</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Proin Eu Augue Efficitur by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/golden-meadow#comment-259</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:50:07 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4797#comment-259</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Donec Sit Amet Nibh by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/new-portfolio-updates#comment-217</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:49:44 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4783#comment-217</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Donec Sit Amet Nibh by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/new-portfolio-updates#comment-216</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:49:36 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4783#comment-216</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Vestibulum Nisl Felis by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/a-stroll-through-nature#comment-139</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:49:13 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4730#comment-139</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Vestibulum Nisl Felis by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/a-stroll-through-nature#comment-138</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:49:03 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4730#comment-138</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Vestibulum Nisl Felis by admin				</title>
+				<link>https://www.elegantthemes.com/layouts/category/a-stroll-through-nature#comment-137</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 May 2014 09:48:52 +0000</pubDate>
+		<guid isPermaLink="false">http://elegantthemes.com/preview/Divi/?p=4730#comment-137</guid>
+					<description><![CDATA[Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.]]></description>
+		<content:encoded><![CDATA[<p>Nulla at justo aliquet nunc auctor mollis non a metus. Nulla cursus aliquet urna in fringilla. Fusce tincidunt mi magna, non consectetur leo rutrum ac. Nullam eu aliquet tortor.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
